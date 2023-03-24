@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1678451516 source:c:\users\balaz\onedrive\dokumentumok\egyetem\1.félév\progalap\programok\hm23gb_grafgyak1\main.c
+	"brick.h"
+	<stdio.h>
+
+1678451516 c:\users\balaz\onedrive\dokumentumok\egyetem\1.félév\progalap\programok\hm23gb_grafgyak1\include\brick.h
+
+1678538239 source:c:\egyetem\6.félév\grafika\gyakorlatok\hm23gb_grafgyak1\brick.c
+	"brick.h"
+	<math.h>
+
+1678537304 c:\egyetem\6.félév\grafika\gyakorlatok\hm23gb_grafgyak1\include\brick.h
+
+1678451516 source:c:\egyetem\6.félév\grafika\gyakorlatok\hm23gb_grafgyak1\main.c
+	"brick.h"
+	<stdio.h>
+
+1679660430 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\hm23gb_grafgyak1\brick.c
+	"brick.h"
+	<math.h>
+
+1679564483 c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\hm23gb_grafgyak1\include\brick.h
+
+1679660430 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\hm23gb_grafgyak1\main.c
+	"brick.h"
+	<stdio.h>
+
