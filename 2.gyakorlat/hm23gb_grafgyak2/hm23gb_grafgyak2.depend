@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1679764758 source:c:\users\balaz\onedrive\dokumentumok\egyetem\1.félév\progalap\programok\hm23gb_grafgyak2\main.c
+	"matrix.h"
+
+1679764758 c:\users\balaz\onedrive\dokumentumok\egyetem\1.félév\progalap\programok\hm23gb_grafgyak2\include\matrix.h
+
+1679764363 source:c:\users\balaz\onedrive\dokumentumok\egyetem\1.félév\progalap\programok\hm23gb_grafgyak2\matrix.c
+	"matrix.h"
+	<stdio.h>
+
+1679768358 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\2.gyakorlat\hm23gb_grafgyak2\main.c
+	"matrix.h"
+
+1679768358 c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\2.gyakorlat\hm23gb_grafgyak2\include\matrix.h
+
+1679768381 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\2.gyakorlat\hm23gb_grafgyak2\matrix.c
+	"matrix.h"
+	<stdio.h>
+	<math.h>
+

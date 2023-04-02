@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1679938205 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\2.gyakorlat\rectangle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<stdbool.h>
+

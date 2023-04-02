@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679933788 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\2.gyakorlat\mouse motion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+
