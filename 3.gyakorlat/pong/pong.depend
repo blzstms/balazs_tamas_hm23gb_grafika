@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1680906183 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\3.gyakorlat\pong\ball.c
+	"ball.h"
+	<GL/gl.h>
+	<math.h>
+
+1680906183 c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\3.gyakorlat\pong\ball.h
+
+1680906183 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\3.gyakorlat\pong\game.c
+	"game.h"
+	<GL/gl.h>
+	<stdio.h>
+
+1680906183 c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\3.gyakorlat\pong\game.h
+	"pong.h"
+	<SDL2/SDL.h>
+
+1680906729 c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\3.gyakorlat\pong\pong.h
+	"ball.h"
+	"pad.h"
+	<stdbool.h>
+
+1680906183 c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\3.gyakorlat\pong\pad.h
+
+1680867183 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\3.gyakorlat\pong\main.c
+	"game.h"
+
+1680906183 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\3.gyakorlat\pong\pad.c
+	"pad.h"
+	<GL/gl.h>
+
+1680906582 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\3.gyakorlat\pong\pong.c
+	"pong.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1680906343 c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\3.gyakorlat\pong\score.h
+
+1680906537 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\3.gyakorlat\pong\score.c
+	<stdio.h>
+	<math.h>
+	<GL\gl.h>
+	"score.h"
+
