@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1680867902 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\3.gyakorlat\origin\app.c
+	"app.h"
+	<SDL2/SDL_image.h>
+
+1680867902 c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\3.gyakorlat\origin\app.h
+	"camera.h"
+	"scene.h"
+	<SDL2/SDL.h>
+	<GL/gl.h>
+	<stdbool.h>
+
+1680868352 c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\3.gyakorlat\origin\camera.h
+	"utils.h"
+	<stdbool.h>
+
+1680867902 c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\3.gyakorlat\origin\utils.h
+
+1680867902 c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\3.gyakorlat\origin\scene.h
+	"camera.h"
+
+1680867902 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\3.gyakorlat\origin\camera.c
+	"camera.h"
+	<GL/gl.h>
+	<math.h>
+
+1680867902 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\3.gyakorlat\origin\main.c
+	"app.h"
+	<stdio.h>
+
+1680867902 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\3.gyakorlat\origin\scene.c
+	"scene.h"
+	<GL/gl.h>
+
+1680867902 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\3.gyakorlat\origin\utils.c
+	"utils.h"
+	<math.h>
+
+1681205632 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\4.gyakorlat\origin\app.c
+	"app.h"
+	<stdio.h>
+	<SDL2/SDL_image.h>
+
+1681205100 c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\4.gyakorlat\origin\app.h
+	"camera.h"
+	"scene.h"
+	<SDL2/SDL.h>
+	<GL/gl.h>
+	<stdbool.h>
+
+1681205100 c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\4.gyakorlat\origin\camera.h
+	"utils.h"
+	<stdbool.h>
+
+1681205100 c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\4.gyakorlat\origin\utils.h
+
+1681205681 c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\4.gyakorlat\origin\scene.h
+	"camera.h"
+
+1681205100 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\4.gyakorlat\origin\main.c
+	"app.h"
+	<stdio.h>
+
+1681205720 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\4.gyakorlat\origin\scene.c
+	"scene.h"
+	<GL/gl.h>
+	<stdlib.h>
+	<math.h>
+
+1681205632 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\4.gyakorlat\origin\utils.c
+	"utils.h"
+	<math.h>
+
+1681205632 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\4.gyakorlat\origin\camera.c
+	"camera.h"
+	<GL/gl.h>
+	<math.h>
+
