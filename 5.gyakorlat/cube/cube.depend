@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1682357581 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\5.gyakorlat\cube\app.c
+	"app.h"
+	<SDL2/SDL_image.h>
+
+1682357562 c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\5.gyakorlat\cube\app.h
+	"camera.h"
+	"scene.h"
+	<SDL2/SDL.h>
+	<stdbool.h>
+
+1681370681 c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\5.gyakorlat\cube\camera.h
+	"utils.h"
+	<stdbool.h>
+
+1681370681 c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\5.gyakorlat\cube\utils.h
+
+1682359396 c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\5.gyakorlat\cube\scene.h
+	"camera.h"
+	"texture.h"
+	<obj/model.h>
+
+1681370681 c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\5.gyakorlat\cube\texture.h
+	<GL/gl.h>
+
+1681989444 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\5.gyakorlat\cube\camera.c
+	"camera.h"
+	<GL/gl.h>
+	<math.h>
+
+1682357376 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\5.gyakorlat\cube\scene.c
+	"scene.h"
+	<obj/load.h>
+	<obj/draw.h>
+
+1682281711 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\5.gyakorlat\cube\texture.c
+	"texture.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1681370681 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\5.gyakorlat\cube\utils.c
+	"utils.h"
+	<math.h>
+
+1681370707 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\5.gyakorlat\cube\main.c
+	"app.h"
+	<stdio.h>
+
+1681714614 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\5.gyakorlat\cube\model.c
+	"model.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1681714614 c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\gyakorlatok\5.gyakorlat\cube\model.h
+	<stdio.h>
+
