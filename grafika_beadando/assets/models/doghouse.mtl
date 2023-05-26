@@ -1,0 +1,42 @@
+# Blender 3.5.0 MTL File: 'None'
+# www.blender.org
+
+newmtl phong4SG.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/balaz/Downloads/heejd0x34rgg-Doghouse/Doghouse/Textures and Models/1_BaseColor.jpg
+
+newmtl phong5SG.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/balaz/Downloads/heejd0x34rgg-Doghouse/Doghouse/Textures and Models/2_BaseColor.jpg
+
+newmtl phong6SG.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/balaz/Downloads/heejd0x34rgg-Doghouse/Doghouse/Textures and Models/3_BaseColor.jpg
+
+newmtl phong7SG.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/balaz/Downloads/heejd0x34rgg-Doghouse/Doghouse/Textures and Models/4_BaseColor.jpg

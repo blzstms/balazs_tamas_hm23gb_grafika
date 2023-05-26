@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1684929537 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\grafika_beadando\app.c
+	"app.h"
+	"scene.h"
+	"dogmove.h"
+	<SDL2/SDL_image.h>
+
+1684917561 c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\grafika_beadando\app.h
+	"camera.h"
+	"scene.h"
+	"dogmove.h"
+	<SDL2/SDL.h>
+	<stdbool.h>
+
+1684101143 c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\grafika_beadando\camera.h
+	"utils.h"
+	<stdbool.h>
+
+1682576133 c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\grafika_beadando\utils.h
+
+1684917450 c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\grafika_beadando\scene.h
+	"camera.h"
+	"texture.h"
+	"dogmove.h"
+	<obj/model.h>
+
+1682576133 c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\grafika_beadando\texture.h
+	<GL/gl.h>
+
+1684786391 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\grafika_beadando\camera.c
+	"camera.h"
+	<GL/gl.h>
+	<math.h>
+
+1684414490 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\grafika_beadando\main.c
+	"app.h"
+	<stdio.h>
+
+1684919528 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\grafika_beadando\scene.c
+	"scene.h"
+	"app.h"
+	"dogmove.h"
+	<obj/load.h>
+	<obj/draw.h>
+
+1682576133 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\grafika_beadando\texture.c
+	"texture.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1682576133 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\grafika_beadando\utils.c
+	"utils.h"
+	<math.h>
+
+1684917251 c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\grafika_beadando\dogmove.h
+	<stdbool.h>
+
+1684917222 source:c:\users\balaz\onedrive\dokumentumok\egyetem\6.félév\grafika\grafika_beadando\dogmove.c
+	"dogmove.h"
+
